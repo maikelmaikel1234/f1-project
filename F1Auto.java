@@ -38,12 +38,7 @@ public void setRondesGereden(short rondesGereden){
 	this.rondesGereden = rondesGereden;
 }
 
-public void setBanden(char banden){
-	this.banden = banden;
-}
-
-public void setRondeTijd(double rondeTijd){
-	this.rondeTijd = rondeTijd;
+public void main(){
 }
 
 }
